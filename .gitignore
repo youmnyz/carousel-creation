@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+uploads/
+logs/
+output/
+state.json
+*.pptx
+run.bat
